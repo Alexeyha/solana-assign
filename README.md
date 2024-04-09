@@ -1,5 +1,10 @@
 # Project
 
+### Cloning
+```bash
+git clone --recursive https://github.com/Alexeyha/solana-assign.git
+```
+
 ### Dependencies and libraries
 
 * **Boost** for thread pool. Modern C++ does not contain thread pool in standard library, although it is effective solution for potential ample number of background task.
