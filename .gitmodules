@@ -1,4 +1,3 @@
 [submodule "deps/jsoncons"]
 	path = deps/jsoncons
 	url = https://github.com/danielaparker/jsoncons
-
